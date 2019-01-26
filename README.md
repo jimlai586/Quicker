@@ -33,7 +33,7 @@ No dependency on anything, work as part of Xcode unit test, not as an alternativ
 
 ### Installation
 
-Use Carthage or copy the one source file.
+Copy one source file to your test target.
 
 
 
